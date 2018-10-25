@@ -6,7 +6,7 @@
     <title>Título da página</title>
 </head>
 <body>
-  <h1>This is Magic</h1>
+  <h1>Hello Word</h1>
  <p> Ae galera estou começando a programar em html.<br/> Partiu estudar mais e ver o que mais da pra fazer!
 <br/>beijos 
 <br/>ATT
